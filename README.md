@@ -2,6 +2,10 @@
 
 📰 A simple Google Cloud Function in Go to report a summary of GitLab merge requests to Microsoft Teams - it can be triggered regularly using Cloud Scheduler.
 
+![GitLab MR Summary - Illustration purposes only!](screenshot.jpg "GitLab MR Summary - Illustration purposes only!")
+
+_(Screenshot above is only for illustration purposes. Actual results may vary.)_
+
 ---
 
 **Why is this needed?**
